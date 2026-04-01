@@ -26,7 +26,7 @@
 
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJya290N3E4ejk2YnV0ZG56Y3Z0aDhkY3Flam5od2lhdjRwc3F6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N5B19awm2YvwMwf8JE/giphy.gif" width="180"/>
 
-I'm **Mahima**, a **BCT student** and passionate builder. I'm interested in **Blockchain, Fullstack Development, and Game Design**. I enjoy creating things from scratch, exploring new tech, and leveling up in cryptography and decentralized systems.
+I'm **Mahima**, a **CS student** and passionate builder. I'm interested in **Blockchain, Fullstack Development, and Game Design**. I enjoy creating things from scratch, exploring new tech, and leveling up in cryptography and decentralized systems.
 
 <br clear="right"/>
 
