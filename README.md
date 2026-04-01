@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Crimson+Pro&size=19&pause=1000&color=C9A8E0&center=true&vCenter=true&width=460&lines=building+things+from+scratch+%F0%9F%8C%BF;fullstack+%C2%B7+blockchain+%C2%B7+game+dev;coding+from+andhra+pradesh+%F0%9F%87%AE%F0%9F%87%B3;always+in+vibe+mode+%F0%9F%8C%99" />
+<img src="https://readme-typing-svg.demolab.com?font=Crimson+Pro&size=19&pause=1000&color=C9A8E0&center=true&vCenter=true&width=460&lines=building+things+from+scratch+%F0%9F%8C%BF;fullstack+%C2%B7+blockchain+%C2%B7+game+dev;always+building+%C2%B7+always+vibing+%F0%9F%8C%99;always+in+vibe+mode+%F0%9F%8C™" />
 
 </div>
 
@@ -26,7 +26,7 @@
 
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJya290N3E4ejk2YnV0ZG56Y3Z0aDhkY3Flam5od2lhdjRwc3F6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N5B19awm2YvwMwf8JE/giphy.gif" width="180"/>
 
-I'm **Mahima**, a **CS student** and passionate builder. I'm interested in **Blockchain, Fullstack Development, and Game Design**. I enjoy creating things from scratch, exploring new tech, and continuously leveling up in cryptography and decentralized systems.
+I'm **Mahima**, a **BCT student** and passionate builder. I'm interested in **Blockchain, Fullstack Development, and Game Design**. I enjoy creating things from scratch, exploring new tech, and leveling up in cryptography and decentralized systems.
 
 <br clear="right"/>
 
