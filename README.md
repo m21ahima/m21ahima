@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:f5d5e0,40:dcd0f0,70:b8c0e8,100:e8d5f5&height=200&section=header&text=hi%2C%20i'm%20mahima%20%F0%9F%8C%B8&fontSize=50&fontColor=4a3060&fontAlignY=45&desc=fullstack%20dev%20%C2%B7%20bct%20student%20%C2%B7%20game%20designer&descAlignY=65&descColor=7B337E&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,40:2d1b4e,70:4a2060,100:1a1a2e&height=200&section=header&text=hi%2C%20i'm%20mahima%20%F0%9F%8C%B8&fontSize=50&fontColor=f5d5e0&fontAlignY=55&animation=fadeIn"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Crimson+Pro&size=19&pause=1000&color=7B337E&center=true&vCenter=true&width=460&lines=building+things+from+scratch+%F0%9F%8C%BF;fullstack+%C2%B7+blockchain+%C2%B7+game+dev;coding+from+andhra+pradesh+%F0%9F%87%AE%F0%9F%87%B3;always+in+vibe+mode+%F0%9F%8C%99" />
+<img src="https://readme-typing-svg.demolab.com?font=Crimson+Pro&size=19&pause=1000&color=C9A8E0&center=true&vCenter=true&width=460&lines=building+things+from+scratch+%F0%9F%8C%BF;fullstack+%C2%B7+blockchain+%C2%B7+game+dev;coding+from+andhra+pradesh+%F0%9F%87%AE%F0%9F%87%B3;always+in+vibe+mode+%F0%9F%8C%99" />
 
 </div>
 
@@ -26,15 +26,19 @@
 
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJya290N3E4ejk2YnV0ZG56Y3Z0aDhkY3Flam5od2lhdjRwc3F6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N5B19awm2YvwMwf8JE/giphy.gif" width="180"/>
 
-```yaml
-name     : Mahima
-building : fullstack apps · dapps · games
-loves    : creating new things from scratch
-           vibe coding · game designing
-mood     : lofi beats + ghibli osts 🎵
-```
+I'm **Mahima**, a **CS student** and passionate builder. I'm interested in **Blockchain, Fullstack Development, and Game Design**. I enjoy creating things from scratch, exploring new tech, and continuously leveling up in cryptography and decentralized systems.
 
 <br clear="right"/>
+
+---
+
+### 🎯 current focus
+
+- **Working on:** fullstack dapps, pygame projects, and android apps
+- **Learning:** blockchain internals, cryptography & CNS, android development
+- **Open to collaborate on:** dapps, creative dev tools, game projects
+- **Ask me about:** Solidity, React, Python, web3, and game dev
+- **Goal:** build things that actually mean something
 
 ---
 
@@ -44,37 +48,36 @@ mood     : lofi beats + ghibli osts 🎵
 
 **languages**
 
-![Python](https://img.shields.io/badge/Python-f5d5e0?style=flat-square&logo=python&logoColor=4a3060)
-![Java](https://img.shields.io/badge/Java-ede0f5?style=flat-square&logo=openjdk&logoColor=4a3060)
-![JavaScript](https://img.shields.io/badge/JavaScript-f5ebd0?style=flat-square&logo=javascript&logoColor=4a3060)
-![Solidity](https://img.shields.io/badge/Solidity-dcd0f0?style=flat-square&logo=solidity&logoColor=4a3060)
+![Python](https://img.shields.io/badge/Python-2d1b4e?style=flat-square&logo=python&logoColor=C9A8E0)
+![Java](https://img.shields.io/badge/Java-1a1a2e?style=flat-square&logo=openjdk&logoColor=f5d5e0)
+![JavaScript](https://img.shields.io/badge/JavaScript-2d1b4e?style=flat-square&logo=javascript&logoColor=f5ebd0)
+![Solidity](https://img.shields.io/badge/Solidity-1a1a2e?style=flat-square&logo=solidity&logoColor=C9A8E0)
 
 **web & fullstack**
 
-![HTML5](https://img.shields.io/badge/HTML5-f5d5e0?style=flat-square&logo=html5&logoColor=7B337E)
-![CSS3](https://img.shields.io/badge/CSS3-d0dff5?style=flat-square&logo=css3&logoColor=4a3060)
-![Node.js](https://img.shields.io/badge/Node.js-d5f5e0?style=flat-square&logo=nodedotjs&logoColor=3a6040)
-![React](https://img.shields.io/badge/React-d0eef5?style=flat-square&logo=react&logoColor=3a6080)
-![Streamlit](https://img.shields.io/badge/Streamlit-f5d5d5?style=flat-square&logo=streamlit&logoColor=7B337E)
+![HTML5](https://img.shields.io/badge/HTML5-2d1b4e?style=flat-square&logo=html5&logoColor=f5d5e0)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=flat-square&logo=css3&logoColor=C9A8E0)
+![Node.js](https://img.shields.io/badge/Node.js-2d1b4e?style=flat-square&logo=nodedotjs&logoColor=a8e0c9)
+![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=a8d0e0)
+![Streamlit](https://img.shields.io/badge/Streamlit-2d1b4e?style=flat-square&logo=streamlit&logoColor=f5d5d5)
 
 **blockchain**
 
-![Ethereum](https://img.shields.io/badge/Ethereum-dcd0f0?style=flat-square&logo=ethereum&logoColor=4a3060)
-![Truffle](https://img.shields.io/badge/Truffle-f5e8d0?style=flat-square&logo=ethereum&logoColor=6a4020)
-![MetaMask](https://img.shields.io/badge/MetaMask-f5ead0?style=flat-square&logo=metamask&logoColor=7a4010)
+![Ethereum](https://img.shields.io/badge/Ethereum-1a1a2e?style=flat-square&logo=ethereum&logoColor=C9A8E0)
+![Truffle](https://img.shields.io/badge/Truffle-2d1b4e?style=flat-square&logo=ethereum&logoColor=f5e8d0)
+![MetaMask](https://img.shields.io/badge/MetaMask-1a1a2e?style=flat-square&logo=metamask&logoColor=f5ead0)
 
 **tools**
 
-![Git](https://img.shields.io/badge/Git-f5d5d5?style=flat-square&logo=git&logoColor=7B337E)
-![VSCode](https://img.shields.io/badge/VSCode-d0dff5?style=flat-square&logo=visualstudiocode&logoColor=4a3060)
-![Android Studio](https://img.shields.io/badge/Android_Studio-d5f5e8?style=flat-square&logo=androidstudio&logoColor=3a6040)
+![Git](https://img.shields.io/badge/Git-2d1b4e?style=flat-square&logo=git&logoColor=f5d5d5)
+![VSCode](https://img.shields.io/badge/VSCode-1a1a2e?style=flat-square&logo=visualstudiocode&logoColor=C9A8E0)
+![Android Studio](https://img.shields.io/badge/Android_Studio-2d1b4e?style=flat-square&logo=androidstudio&logoColor=a8e0c9)
 
 </div>
 
 ---
 
 ### 🌱 currently learning
-
 ```
 ⛓  blockchain technology    ▓▓▓▓▓▓▓▓▓░  85%
 📱  android development      ▓▓▓▓▓▓░░░░  60%
@@ -125,13 +128,13 @@ puzzles, atmosphere, whole lotta vibe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=m21ahima&show_icons=true&hide_border=true&bg_color=f5eef8&title_color=7B337E&icon_color=6667AB&text_color=4a3060" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=m21ahima&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=C9A8E0&icon_color=C9A8E0&text_color=f5d5e0&ring_color=7B337E" height="160"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m21ahima&layout=compact&hide_border=true&bg_color=f5eef8&title_color=7B337E&text_color=4a3060" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m21ahima&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=C9A8E0&text_color=f5d5e0" height="160"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=m21ahima&hide_border=true&background=F5EEF8&ring=7B337E&fire=C9A8E0&currStreakLabel=7B337E&sideLabels=6667AB&dates=9a8aaa&currStreakNum=4a3060&sideNums=4a3060"/>
+<img src="https://streak-stats.demolab.com?user=m21ahima&hide_border=true&background=1a1a2e&ring=7B337E&fire=C9A8E0&currStreakLabel=C9A8E0&sideLabels=C9A8E0&dates=9a8aaa&currStreakNum=f5d5e0&sideNums=f5d5e0"/>
 
 </div>
 
@@ -147,10 +150,10 @@ puzzles, atmosphere, whole lotta vibe
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/m21ahima-f5d5e0?style=for-the-badge&logo=github&logoColor=4a3060)](https://github.com/m21ahima)
+[![GitHub](https://img.shields.io/badge/m21ahima-2d1b4e?style=for-the-badge&logo=github&logoColor=f5d5e0)](https://github.com/m21ahima)
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:e8d5f5,40:dcd0f0,70:f5d5e0,100:fce8f0&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,40:2d1b4e,70:4a2060,100:1a1a2e&height=120&section=footer"/>
 </div>
