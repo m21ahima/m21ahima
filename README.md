@@ -1,76 +1,145 @@
 <div align="center">
 
-# 🌌 The Astral Grimoire of m21ahima 🔮
+  <!-- Animated Cosmic Header Banner -->
+  <img src="https://raw.githubusercontent.com/andrem22/andrem22/main/assets/banner.gif" width="100%" alt="Cosmic Header" />
 
-<a href="https://github.com/m21ahima">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Cinzel&color=9370DB&size=25&center=true&vCenter=true&width=600&height=50&lines=Summoning+Code+from+the+Void...;Weaving+Spells+in+the+Digital+Cosmos...;Architect+of+Celestial+Systems..." alt="Typing SVG" />
-</a>
+  <br/><br/>
 
-<br/>
+  <!-- Header Title -->
+  <h1>MAHIMA</h1>
 
-> *“Navigating the nebulae of raw data to forge elegant, otherworldly solutions.”* 🌙
-
----
-
-### ☄️ Arcane Knowledge & Constellations
-*The tools and languages I use to shape the digital ether.*
-
-<br/>
-
-<!-- Violet & Deep Blue Tech Badges (Grey Backgrounds) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-1E1E24?style=for-the-badge&logo=python&logoColor=8A2BE2" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-1E1E24?style=for-the-badge&logo=javascript&logoColor=4169E1" alt="JS" />
-  <img src="https://img.shields.io/badge/React-1E1E24?style=for-the-badge&logo=react&logoColor=9370DB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-1E1E24?style=for-the-badge&logo=nodedotjs&logoColor=4169E1" alt="Node" />
-  <img src="https://img.shields.io/badge/Docker-1E1E24?style=for-the-badge&logo=docker&logoColor=8A2BE2" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-1E1E24?style=for-the-badge&logo=git&logoColor=4169E1" alt="Git" />
-  <img src="https://img.shields.io/badge/PostgreSQL-1E1E24?style=for-the-badge&logo=postgresql&logoColor=9370DB" alt="Postgres" />
-</p>
-
----
-
-### 🔭 Astral Projections
-*Observing my contributions across the open-source galaxy.*
-
-<br/>
-
-<table align="center" style="border: none;">
-  <tr style="border: none;">
-    <td align="center" style="border: none;">
-      <!-- Main Stats: Dark Grey BG, Violet Title, Blue Icons, Grey Text -->
-      <img src="https://github-readme-stats.vercel.app/api?username=m21ahima&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=4169E1&text_color=8892B0&theme=transparent" alt="m21ahima's GitHub Stats" />
-    </td>
-    <td align="center" style="border: none;">
-      <!-- Language Stats: Matching Theme -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m21ahima&layout=compact&hide_border=true&bg_color=0D1117&title_color=9370DB&text_color=8892B0&theme=transparent" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <!-- Streak Stats: Violet Ring, Blue Fire, Grey BG -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m21ahima&hide_border=true&background=0D1117&ring=8A2BE2&fire=4169E1&currStreakNum=8892B0&sideNums=8892B0&currStreakLabel=9370DB&sideLabels=9370DB&dates=8892B0" alt="GitHub Streak" />
-</p>
-
----
-
-### 🔮 Open the Portal (Connect)
-
-<p align="center">
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=9370DB" alt="Email" />
+  <!-- Animated Typing SVG -->
+  <a href="https://github.com/m21ahima">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Cinzel&color=A855F7&size=22&center=true&vCenter=true&width=600&height=40&lines=Architecting+Systems+in+the+Digital+Cosmos...;Navigating+Data+Through+the+Ether...;Building+Ethereal+Software..." alt="Typing SVG" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=4169E1" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-111827?style=for-the-badge&logo=x&logoColor=8A2BE2" alt="Twitter" />
-  </a>
-</p>
 
-<br/>
+  <br/>
 
-✨ *Eyes on the stars, hands on the keyboard.* ✨
+  <p><i>Navigating raw data to forge elegant, otherworldly solutions.</i></p>
+
+  <br/>
+  <hr width="80%" />
+  <br/>
+
+  <!-- Tech Stack Section -->
+  <h3>Technical Constellation</h3>
+
+  <br/>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python" />
+    <img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=A855F7" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=38BDF8" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=38BDF8" alt="React" />
+    <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=A855F7" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Solidity-0F172A?style=for-the-badge&logo=solidity&logoColor=38BDF8" alt="Solidity" />
+    <img src="https://img.shields.io/badge/Web3.js-0F172A?style=for-the-badge&logo=web3dotjs&logoColor=A855F7" alt="Web3.js" />
+    <img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=38BDF8" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=A855F7" alt="CSS3" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind" />
+    <img src="https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=A855F7" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=38BDF8" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=38BDF8" alt="Docker" />
+    <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=A855F7" alt="Git" />
+    <img src="https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=38BDF8" alt="Linux" />
+  </p>
+
+  <br/>
+  <hr width="80%" />
+  <br/>
+
+  <!-- Projects Section -->
+  <h3>Featured Projects</h3>
+
+  <br/>
+
+  <!-- Project Cards Grid -->
+  <table align="center">
+    <tr>
+      <td width="50%">
+        <h4 align="center">ResQOps</h4>
+        <p align="center">
+          <a href="https://github.com/m21ahima/resqops">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=m21ahima&repo=resqops&theme=dark&title_color=a855f7&text_color=94a3b8&icon_color=38bdf8&bg_color=0f172a&hide_border=true" alt="ResQOps" width="100%" />
+          </a>
+          <br/>
+          <sub><i>🚨 Emergency Response Operations System</i></sub>
+        </p>
+      </td>
+      <td width="50%">
+        <h4 align="center">NeerChain DApp</h4>
+        <p align="center">
+          <a href="https://github.com/m21ahima/NeerChainDapp">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=m21ahima&repo=NeerChainDapp&theme=dark&title_color=a855f7&text_color=94a3b8&icon_color=38bdf8&bg_color=0f172a&hide_border=true" alt="NeerChainDapp" width="100%" />
+          </a>
+          <br/>
+          <sub><i>💧 Blockchain-based Water Management DApp</i></sub>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h4 align="center">CyberGame1</h4>
+        <p align="center">
+          <a href="https://github.com/m21ahima/CyberGame1">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=m21ahima&repo=CyberGame1&theme=dark&title_color=a855f7&text_color=94a3b8&icon_color=38bdf8&bg_color=0f172a&hide_border=true" alt="CyberGame1" width="100%" />
+          </a>
+          <br/>
+          <sub><i>🎮 Cyber Gaming Experience</i></sub>
+        </p>
+      </td>
+      <td width="50%">
+        <h4 align="center">Portfolio</h4>
+        <p align="center">
+          <a href="https://github.com/m21ahima/portfolio">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=m21ahima&repo=portfolio&theme=dark&title_color=a855f7&text_color=94a3b8&icon_color=38bdf8&bg_color=0f172a&hide_border=true" alt="Portfolio" width="100%" />
+          </a>
+          <br/>
+          <sub><i>💼 Personal Portfolio & Creative Space</i></sub>
+        </p>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+  <hr width="80%" />
+  <br/>
+
+  <!-- Contributions Section -->
+  <h3>Contribution Overview</h3>
+
+  <br/>
+
+  <p align="center">
+    <img src="https://img.shields.io/github/issues-pr/m21ahima/m21ahima?style=for-the-badge&color=A855F7&logo=github&logoColor=38BDF8&labelColor=0F172A" alt="Pull Requests" />
+    <img src="https://img.shields.io/github/issues/m21ahima/m21ahima?style=for-the-badge&color=38BDF8&logo=github&logoColor=A855F7&labelColor=0F172A" alt="Issues" />
+    <img src="https://img.shields.io/github/commit-activity/m/m21ahima/m21ahima?style=for-the-badge&color=A855F7&logo=github&logoColor=38BDF8&labelColor=0F172A" alt="Commit Activity" />
+  </p>
+
+  <br/>
+
+  <!-- Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="93%" />
+  </picture>
+
+  <br/>
+  <hr width="80%" />
+  <br/>
+
+  <!-- Profile Views -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=m21ahima&style=for-the-badge&color=A855F7&labelColor=0F172A&logo=github&logoColor=38BDF8" alt="Profile Views" />
+  </p>
+
+  <br/>
+
+  <p><i>"In the vast digital cosmos, every line of code is a star."</i></p>
+
+  <br/>
+
+  <!-- Animated Cosmic Wave Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=footer" width="100%" />
 
 </div>
